@@ -13,4 +13,4 @@ CRUD operations implemented in PHP
 
 Database - mysql engine running on rds
 
-EC2 - running on linux os
+EC2 - running on linux os 
